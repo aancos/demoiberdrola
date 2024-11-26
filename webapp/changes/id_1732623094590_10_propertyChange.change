@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1732623094590_10_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "sap.training.bookings00",
+    "packageName": "",
+    "content": {
+        "property": "useExportToExcel",
+        "newValue": false
+    },
+    "selector": {
+        "id": "sap.training.bookings00::sap.suite.ui.generic.template.ListReport.view.ListReport::ZDS4_C_CUSTOMER_S1_00--listReport",
+        "idIsLocal": false,
+        "type": "sap.ui.comp.smarttable.SmartTable"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/sap.training.bookings00/changes/",
+    "projectId": "",
+    "creation": 1732623094590,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "1.96.33",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
